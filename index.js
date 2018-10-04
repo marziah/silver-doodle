@@ -9,7 +9,7 @@
 //} 
 for (var y = 0; y < 101; y++){
     if ( y % 2 ===0){
-        console.log('the nunber is', y);
+        console.log('the even number is', y);
     }
      
     
